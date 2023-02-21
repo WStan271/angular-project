@@ -1,0 +1,15 @@
+.material-icons{
+    display: inline-flex;
+    vertical-align: middle;
+    font-size:30px;
+    
+}
+button{
+    background-color: #1976d2;
+    text-decoration: none;
+    border: none;
+}
+button:hover {
+    opacity: 0.5;
+    font-weight: normal;
+  }
