@@ -4,12 +4,12 @@
     font-size:30px;
     
 }
-button{
+a{
     background-color: #1976d2;
     text-decoration: none;
     border: none;
 }
-button:hover {
+a:hover {
     opacity: 0.5;
     font-weight: normal;
   }
