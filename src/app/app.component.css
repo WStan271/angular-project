@@ -3,3 +3,10 @@
     height: 95vh;
     width: 100vw;
 }
+.content{
+    width:800px;
+    height:800px;
+     margin:0 auto; 
+     background-color: grey;
+
+}
